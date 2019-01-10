@@ -1,4 +1,4 @@
 /.idea
 /out
 /target
-src/main/webapp/WEB-INF/jsp
+/src/main/webapp/
